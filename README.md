@@ -2,6 +2,10 @@
 
 This is a demo of how dsanotice.com can be integrated on a photo sharing platform to fight illigal content and make this platform compliant with Digital Services Act
 
+
+> Live demo may be found at https://dsanotice.com/demo.html
+
+
 ## 1. Client script
 
 Add this script to end of the `body` tag on your platform
